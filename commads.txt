@@ -8,7 +8,7 @@
 git init	 							/* initialized the git local repo */		  |
 git add 								/* add files to the repo */					  |
 git commit 								/* commit change to local repo */			  |
-git pull <local repo> <remote repo> 	/* pull the changes for remote repo */		  |
+git pull <local repo> <remote repo> 	/* pull the changes from remote repo */		  |
 git push -u <local repo> <remote repo>  /* push the changes to the remote repo */	  |
 																					  |
 ---------------------------------------------------------------------------------------
