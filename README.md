@@ -1,4 +1,4 @@
 test
 ====
 
-this is testing of gi commands
+this is testing of git commands
